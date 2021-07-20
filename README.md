@@ -36,7 +36,7 @@ I had a small problem when I was implementing the slider, it was giving me error
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Ruifan Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
